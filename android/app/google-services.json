@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827178928414",
+    "project_id": "teeks-87e18",
+    "storage_bucket": "teeks-87e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827178928414:android:557eba280f24a50e2f210f",
+        "android_client_info": {
+          "package_name": "com.teeks.eshop.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLda2myxT4xDt66cGLISjo7ixhnUeSd8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827178928414:android:a820003781b7e4042f210f",
+        "android_client_info": {
+          "package_name": "eShop.multivendor.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLda2myxT4xDt66cGLISjo7ixhnUeSd8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
